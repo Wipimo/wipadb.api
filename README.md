@@ -11,6 +11,6 @@ Une double vérification de droits est effectuée.
 
 La première avec votre client_id et votre client_secret. Votre client_id est votre domaine client Wipimo, le client_secret vous sera communiqué lors de la souscription à l’API.
 
-La seconde avec un email et un mot de passe. Ce sont les informations habituelles de connexion à Wipimo.
+La seconde avec le email et le mot de passe d'un utilisateur actif de l'application Wipimo ayant le rôle d'accès à l'API.
 
 Le token d’accès (access_token) reçu devra être insérer dans chaque requête d’appel à l’API dans le Header « Authorization » de type « Bearer ».
