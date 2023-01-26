@@ -2,5 +2,5 @@
 ## 2023.01.2
 ### New
 - Ajout de la route "../cli/Personne/search" avec recherche par nom/prenom, adresse email, téléphone (fixe ou mobile)
-### breaking changes
+### Breaking changes
 - Supression du tri des medias par ordre de préférence dans les réponses des routes "../cli/Personne"
