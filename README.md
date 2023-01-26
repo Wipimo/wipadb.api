@@ -1,6 +1,8 @@
 # WipADB.API
 L'API publique de l'application de gestion locative Wipimo.
 
+[Notes de publications](https://github.com/Wipimo/wipadb.api/blob/main/CHANGELOG.md)
+
 ## Principe général
 Les appels aux différentes ressources de l’API doivent être authentifiés à l’aide d’un token d’accès.
 
