@@ -1,4 +1,9 @@
 # Wipimo.WipADB.API Changelog
+## 2023.11.1
+### New
+- Ajout de la route "../cli/societe" qui retourne une liste des sociétés
+### Breaking changes
+- Sur la route "../ger/mandant" obligation de renseigner l'IdSociete
 ## 2023.02.2
 ### New
 - Ajout de la route "../cli/Personne/searchRoles" similaire à la fonctionnalité de recherche globale de Wipimo. Elle permet une recherche parmis les rôles Personnes, PersRelation, Mandants, Baux et Fournisseurs en utilisant un nom complet ou partiel, une adresse email, un numéro de téléphone, tout ou partie d'une d'adresse postale, l'Id d'une personne.
