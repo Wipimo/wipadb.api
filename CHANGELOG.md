@@ -1,5 +1,5 @@
 # Wipimo.WipADB.API Changelog
-## 2023.11.1
+## 2023.12.1
 ### New
 - Ajout de la route "../cli/societe" qui retourne une liste des sociétés
 ### Breaking changes
