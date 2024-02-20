@@ -1,4 +1,20 @@
 # Wipimo.WipADB.API Changelog
+## 2024.2.1
+### New
+* Ajout de nouveaux champs dans le modèle cliPersonneV1Dto :
+  * IdCodeGenre
+  * NomNaissance
+  * DateNaissance
+  * LieuNaissance
+  * Nationalite
+  * IdSituationFamiliale
+  * Siren
+  * CodeEtablissement
+  * RCS
+  * CodeApe
+  * NumeroTvaIntracom
+  * IdCateEntreprise
+  * EtatCivil
 ## 2023.12.1
 ### New
 - Ajout de la route "../cli/societe" qui retourne une liste des sociétés
