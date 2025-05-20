@@ -1,4 +1,7 @@
 # Wipimo.WipADB.API Changelog
+## 2025.5.1
+### New
+- Ajout de la route "../cli/personne/{id}/uid" qui retourne l'identifiant technique d'une personne
 ## 2024.2.1
 ### New
 * Ajout de nouveaux champs dans le modèle cliPersonneV1Dto :
