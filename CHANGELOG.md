@@ -1,4 +1,7 @@
 # Wipimo.WipADB.API Changelog
+## 2025.5.1
+### New
+- Ajout de la route "../cli/personne/{id}/xnetAccount" qui retourne les informations extranet d'une personne (id technique, email, etc.)
 ## 2024.2.1
 ### New
 * Ajout de nouveaux champs dans le modèle cliPersonneV1Dto :
