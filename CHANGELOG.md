@@ -1,4 +1,7 @@
 # Wipimo.WipADB.API Changelog
+## 2025.6.2
+### Breaking changes
+- Masquage partiel du champ "Iban" dans les réponses des routes "../cli/Personne"
 ## 2025.5.1
 ### New
 - Ajout de la route "../cli/personne/{id}/xnetAccount" qui retourne les informations extranet d'une personne (id technique, email, etc.)
