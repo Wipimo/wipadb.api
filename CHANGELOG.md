@@ -1,4 +1,16 @@
 # Wipimo.WipADB.API Changelog
+## 2025.9.2
+### New
+* Ajout de nouveaux champs dans le modèle cliLotDto :
+  * LettreDPEconso
+  * ValeurDPEconso
+  * LettreDPEges
+  * ValeurDPEges
+  * CoutMinDPEconso
+  * CoutMaxDPEconso
+  * DateDernierDPE
+  * NumeroDPE
+  * DPEPetiteSurface
 ## 2025.6.2
 ### Breaking changes
 - Masquage partiel du champ "Iban" dans les réponses des routes "../cli/Personne"
